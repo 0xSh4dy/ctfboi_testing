@@ -1,7 +1,7 @@
 {
 "flag":"flag{redacted_shadyboi}",
 "author":"sh4dy",
-"_type":"dynamic",
+"type":"dynamic",
 "description":"Sample challenge",
 "points":500,
 "studyMaterials":[{"name":"sigrop","link":"http://127.0.0.1:1000"},{"name":"rop","link":"http://0.0.1.1:1000"}],
