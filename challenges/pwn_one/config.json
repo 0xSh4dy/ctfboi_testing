@@ -2,7 +2,7 @@
 {
 "flag":"flag{pwn_one}",
 "author":"sh4dy",
-"_type":"dynamic",
+"type":"dynamic",
 "description":"Sample challenge",
 "points":500,
 "studyMaterials":[{"name":"sigrop","link":"http://127.0.0.1"},{"name":"rop","link":"http://127.0.0.1"}],
