@@ -1,1 +1,11 @@
 
+{
+"flag":"flag{redacted}",
+"author":"sh4dy",
+"type":"dynamic",
+"description":"Sample challenge",
+"points":500,
+"studyMaterials":[{"sigrop":"http://127.0.0.1"},{"rop":"http://127.0.0.1"}],
+"tag":"pwn",
+"subtags":["ROP","SROP"]
+}
