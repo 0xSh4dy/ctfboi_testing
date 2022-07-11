@@ -5,7 +5,7 @@
 "_type":"dynamic",
 "description":"Sample challenge",
 "points":500,
-"studyMaterials":[{"sigrop":"http://127.0.0.1"},{"rop":"http://127.0.0.1"}],
+"studyMaterials":[{"name":"sigrop","link":"http://127.0.0.1"},{"name":"rop","link":"http://127.0.0.1"}],
 "tag":"pwn",
 "subtags":["ROP","SROP"]
 }
